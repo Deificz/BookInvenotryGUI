@@ -20,7 +20,13 @@
             <DataTemplate DataType="{x:Type viewModel:RemoveViewModel}">
                 <view:RemoveView/>
             </DataTemplate>
+<<<<<<< HEAD
            
+=======
+            <DataTemplate DataType="{x:Type viewModel:ModifyViewModel}">
+                <view:ModifyView/>
+            </DataTemplate>
+>>>>>>> 729fc74fcc263445233d36162f88b8cb19d3df04
         </ResourceDictionary>
     </Application.Resources>
 </Application>
